@@ -10,7 +10,7 @@ package com.mycompany.missionanalyze.model;
  */
 public class Curse {
     private String name;
-    private String threatLevel;
+    private String threatLevel; //коммнтарий 
     
     public Curse() {}
     
